@@ -1834,7 +1834,7 @@ a {
 }
 
 .discount .image {
-    background-image: url(/images/discount-background1.jpg);
+    background-image: url(./images/discount-background1.jpg);
     background-size: cover;
     color: white;
     flex-basis: 50%;
