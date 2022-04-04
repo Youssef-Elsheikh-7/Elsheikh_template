@@ -1765,6 +1765,7 @@ a {
     position: relative;
     transition: var(--main-transition);
     min-height: 200px;
+    box-shadow: 0 2px 15px rgb(0 0 0 / 9%);
 }
 
 .stats .container .box::before,
