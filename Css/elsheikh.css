@@ -2018,6 +2018,11 @@ a {
     align-items: center;
     font-size: 22px;
     margin-bottom: 15px;
+    transition: var(--main-transition);
+}
+
+.footer .box .social a:hover {
+    color: white;
 }
 
 .footer .box .social a:hover.facebook {
