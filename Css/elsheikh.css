@@ -2010,7 +2010,7 @@ a {
 
 .footer .box .social a {
     background-color: #313131;
-    color: #b9b9b9;
+    color: white;
     width: 50px;
     height: 50px;
     display: flex;
@@ -2018,11 +2018,8 @@ a {
     align-items: center;
     font-size: 22px;
     margin-bottom: 15px;
+    border-radius: 6px;
     transition: var(--main-transition);
-}
-
-.footer .box .social a:hover {
-    color: white;
 }
 
 .footer .box .social a:hover.facebook {
