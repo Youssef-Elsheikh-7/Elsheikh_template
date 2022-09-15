@@ -1957,10 +1957,10 @@ a {
 @keyframes change-backgound {
     0%,
     100% {
-        background-image: url(./images/discount-background1.jpg);
+        background-image: url(../images/discount-background1.jpg);
     }
     50% {
-        background-image: url(.//images/discount-background2.jpg);
+        background-image: url(..//images/discount-background2.jpg);
     }
 }
 
